@@ -1,0 +1,45 @@
+
+body {
+    position: relative;
+}
+.navbar-brand {
+    font-family: "DecoType Naskh";
+    font-size: 50px;
+    letter-spacing:3px;
+    /* transition: 1.50s;*/
+}
+
+#section1 {
+    padding-top: 200px;
+    height: 500px;
+    color: #fff;
+    background-color: gray;
+}
+
+#section2 {
+    padding-top: 100px;
+    height: 500px;
+    color: #fff;
+    background-color: gray;
+}
+
+#section3 {
+    padding-top: 100px;
+    height: 500px;
+    color: #fff;
+    background-color: gray;
+}
+
+#section41 {
+    padding-top: 100px;
+    height: 500px;
+    color: #fff;
+    background-color: gray;
+}
+
+#section42 {
+    padding-top: 100px;
+    height: 500px;
+    color: #fff;
+    background-color: gray;
+}
