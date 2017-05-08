@@ -4,7 +4,7 @@ body {
 }
 .navbar-brand {
     font-family: "DecoType Naskh";
-    font-size: 50px;
+    font-size: 2.5em;
     letter-spacing:3px;
     /* transition: 1.50s;*/
 }
