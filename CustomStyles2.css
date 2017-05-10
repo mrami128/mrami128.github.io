@@ -2,10 +2,17 @@
 body {
     position: relative;
 }
+
+.navbar-header{
+    border-bottom: solid 1px #ff7100;
+
+}
 .navbar-brand {
     font-family: "DecoType Naskh";
     font-size: 2.5em;
-    letter-spacing:3px;
+    letter-spacing:2.5px;
+        /*color: #ff7100;*/
+          /* inf blue color: #18d5ff  is set up in the html sheet*/
     /* transition: 1.50s;*/
 }
 
